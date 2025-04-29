@@ -5,19 +5,19 @@ This is an interactive Streamlit application built to help predict customer chur
 What This Project Does
 This web app allows you to:
 
-    Visualize churn distribution and key metrics like tenure
+> Visualize churn distribution and key metrics like tenure
 
-    Perform data cleaning and encoding
+> Perform data cleaning and encoding
 
-    Choose between two ML models: Random Forest or XGBoost
+> Choose between two ML models: Random Forest or XGBoost
 
-    Optionally tune hyperparameters using GridSearchCV
+> Optionally tune hyperparameters using GridSearchCV
 
-    Evaluate the model using classification metrics and visual tools
+> Evaluate the model using classification metrics and visual tools
 
-    See which features contribute most to churn prediction
+> See which features contribute most to churn prediction
 
-    Run cross-validation and visualize the results
+> Run cross-validation and visualize the results
 
 Dataset Info
 This project uses the Telco Customer Churn dataset.
